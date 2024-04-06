@@ -1,0 +1,3 @@
+export const GET_PRODUCT_RES="GET_PRODUCT_RES"
+export const GET_PRODUCT_suss="GET_PRODUCT_suss"
+export const GET_PRODUCT_ERR="GET_PRODUCT_ERR"
